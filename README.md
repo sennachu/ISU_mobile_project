@@ -8,6 +8,6 @@
 
 <img src="https://i.hizliresim.com/dt7ty14.png" alt="Proje 2" width="320" height="180">
 
-<img src="https://i.hizliresim.com/dt7ty14.png" alt="Proje 3" width="320" height="180">
+<img src="https://i.hizliresim.com/h26mzl0.png" alt="Proje 3" width="320" height="180">
 
 [@keyvanarasteh] (https://github.com/keyvanarasteh)
