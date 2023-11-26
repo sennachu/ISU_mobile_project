@@ -6,7 +6,11 @@
 
 <img src="https://i.hizliresim.com/cys0jx4.png" alt="Proje 1" width="320" height="400">
 
+<img src="https://i.hizliresim.com/4r2vq9y.png" alt="Proje 1" width="320" height="400">
+
 <img src="https://i.hizliresim.com/dt7ty14.png" alt="Proje 2" width="320" height="400">
+
+<img src="https://i.hizliresim.com/b46a2wq.png" alt="Proje 2" width="320" height="400">
 
 <img src="https://i.hizliresim.com/h26mzl0.png" alt="Proje 3" width="320" height="400">
 
